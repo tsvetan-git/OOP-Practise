@@ -16,9 +16,17 @@ class Square extends Rectangle
 	{
 		return parent::displayTitle().' and Square';
 	}
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> origin/master
 	public function resize($width, $height=null)
 	{
 		parent::resize($width, $width);	
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
